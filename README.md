@@ -1,9 +1,5 @@
 # 2025-P7-Multimodal-Emotion-Recognition
 
-# Multimodal Emotion Recognition Using Large Language Models  
-Project P7 – Applied Data Science Project  
-LINKS Foundation & Politecnico di Torino  
-
 ---
 
 ## Overview
