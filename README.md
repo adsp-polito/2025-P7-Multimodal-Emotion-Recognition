@@ -21,13 +21,11 @@ This work follows the four-pillar methodology established by LINKS Foundation: *
 
 ---
 
-## Repository Structure
-
 2025-P7-Multimodal-Emotion-Recognition/
 │
-├── docs/ # Design documents, functional diagram, checkpoints, Gantt, personas
-├── notebooks/ # Analysis, data prep, zero-shot evaluation, fine-tuning
-├── data/ # Raw and processed datasets (empty due to large files, not versioned)
+├── docs/                 # Design documents, functional diagram, checkpoints, Gantt, personas
+├── notebooks/            # Analysis, data prep, zero-shot evaluation, fine-tuning
+├── data/                 # Raw and processed datasets (empty due to large files, not versioned)
 ├── .gitignore
 └── README.md
 
