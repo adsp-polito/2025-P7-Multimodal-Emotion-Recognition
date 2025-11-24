@@ -21,7 +21,7 @@ This work follows the four-pillar methodology established by LINKS Foundation: *
 
 ---
 
-2025-P7-Multimodal-Emotion-Recognition/
+2025-P7-Multimodal-Emotion-Recognition
 │
 ├── docs/                 
 ├── notebooks/            
