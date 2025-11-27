@@ -8,7 +8,7 @@ This directory contains all Jupyter notebooks developed throughout the **Multimo
 
 ### 1. Data Exploration and Preparation  
 Notebooks focused on loading, cleaning, preprocessing, and analyzing the dataset. This section prepares data for zero-shot evaluation and fine-tuning stages.  
-- `data_inspection.ipynb` (to be added later)
+- `01_data_exploration.ipynb`
 
 ### 2. Zero-Shot Evaluation  
 Notebooks used to run baseline experiments with the chosen MLLM in zero-shot mode. These notebooks document early performance, prompt engineering attempts, and error analysis.  
