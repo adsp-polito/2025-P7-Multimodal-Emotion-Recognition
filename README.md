@@ -56,7 +56,7 @@ Each folder contains its own `README.md` explaining its contents.
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 The project uses two emotional speech datasets:
 
